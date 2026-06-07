@@ -6,21 +6,7 @@ Originally built as a personal development project, this application has been fu
 
 ---
 
-## 📋 Table of Contents
-1. [Links & Repositories](#-links--repositories)
-2. [Aims and Motivation](#-aims-and-motivation)
-3. [Tech Stack & Architecture](#-tech-stack--architecture)
-4. [Key Features](#-key-features)
-5. [API Testing & Custom Exceptions](#-api-testing--custom-exceptions)
-6. [Application Walkthrough (UI)](#-application-walkthrough-ui)
 
----
-
-## 🔗 Links & Repositories
-* **Front-end Repository (React):** [Employee-Management-Frontend]()
-* **Back-end Repository (Spring Boot):** [Employee-Management-System]()
-
----
 
 ## 🎯 Aims and Motivation
 * **Full-Stack Integration:** The primary goal was to master end-to-end web development by successfully bridging a Java-based enterprise backend with a modern JavaScript frontend framework.
@@ -32,8 +18,8 @@ Originally built as a personal development project, this application has been fu
 
 ### Architectural Overview
 The system follows a traditional client-server architecture. The React client communicates asynchronously with the Spring Boot server using Axios HTTP promises, which in turn queries and persists structural data into a MySQL relational database.
+<img width="700" height="252" alt="image" src="https://github.com/user-attachments/assets/5e6c88be-96f4-4bc0-8399-a6bba589edc3" />
 
-![spring-boot-react-crud-example-rest-api-architecture](https://github.com/Saad1929/Employee-Management-System/assets/108022733/9951b53f-cf9c-4bf8-830f-654fa135789f)
 
 ### Technologies & Software Tools
 * **Languages:** Java, JavaScript (ES6+), HTML5, CSS3, JSON, SQL
